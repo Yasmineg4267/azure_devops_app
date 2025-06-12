@@ -5,3 +5,4 @@ Notes and usage details for azure_devops_app.
 - clarify the setup steps
 - link the usage section
 - fix a small wording issue
+- fix a small wording issue
