@@ -13,3 +13,4 @@ Notes and usage details for azure_devops_app.
 - link the usage section
 - link the usage section
 - link the usage section
+- fix a small wording issue
