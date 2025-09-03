@@ -16,3 +16,4 @@ Notes and usage details for azure_devops_app.
 - fix a small wording issue
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
