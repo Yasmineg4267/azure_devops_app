@@ -40,3 +40,4 @@ Notes and usage details for azure_devops_app.
 - fix a small wording issue
 - clarify the setup steps
 - fix a small wording issue
+- add a note about the defaults
